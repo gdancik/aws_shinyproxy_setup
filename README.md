@@ -1,5 +1,9 @@
 # aws_shinyproxy_setup
 
+### install webserver
+
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html
+
 ### install docker
 
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
